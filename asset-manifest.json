@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sudoku-validator/static/css/main.fca9db06.css",
+    "main.js": "/sudoku-validator/static/js/main.90653766.js",
+    "static/js/343.44eb1149.chunk.js": "/sudoku-validator/static/js/343.44eb1149.chunk.js",
+    "static/js/872.fb0be40d.chunk.js": "/sudoku-validator/static/js/872.fb0be40d.chunk.js",
+    "static/js/931.53197ea0.chunk.js": "/sudoku-validator/static/js/931.53197ea0.chunk.js",
+    "static/js/484.161694f1.chunk.js": "/sudoku-validator/static/js/484.161694f1.chunk.js",
+    "index.html": "/sudoku-validator/index.html",
+    "main.fca9db06.css.map": "/sudoku-validator/static/css/main.fca9db06.css.map",
+    "main.90653766.js.map": "/sudoku-validator/static/js/main.90653766.js.map",
+    "343.44eb1149.chunk.js.map": "/sudoku-validator/static/js/343.44eb1149.chunk.js.map",
+    "872.fb0be40d.chunk.js.map": "/sudoku-validator/static/js/872.fb0be40d.chunk.js.map",
+    "931.53197ea0.chunk.js.map": "/sudoku-validator/static/js/931.53197ea0.chunk.js.map",
+    "484.161694f1.chunk.js.map": "/sudoku-validator/static/js/484.161694f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fca9db06.css",
+    "static/js/main.90653766.js"
+  ]
+}
